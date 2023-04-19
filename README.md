@@ -28,4 +28,11 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
+##### Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-hb-000000?style=flat&logo=Linkedin&logoColor=F05032&link=https://www.linkedin.com/in/harsh-banthiya-858a6820a/)](https://www.linkedin.com/in/harsh-banthiya-858a6820a/)
+[![Website Badge](https://img.shields.io/badge/-hb-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://harsh-banthiya.vercel.app/)](https://harsh-banthiya.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-hb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:banthiyaharsh01@gmail.com)](mailto:banthiyaharsh01@gmail.com)
+
+
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshbanthiya&show_icons=true&theme=github_dark)](https://github.com/harshbanthiya/github-readme-stats)
