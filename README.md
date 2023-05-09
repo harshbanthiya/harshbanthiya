@@ -34,5 +34,14 @@
 [![Website Badge](https://img.shields.io/badge/-hb-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://harsh-banthiya.vercel.app/)](https://harsh-banthiya.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-hb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:banthiyaharsh01@gmail.com)](mailto:banthiyaharsh01@gmail.com)
 
+##### Latest Blog Posts
+
+[Preparing for Azure Developer Associate AZ-204 (Azure Functions)](https://harsh-banthiya.vercel.app/azure-functions-overview)
+
+[Learning C# for a C++ developer](https://harsh-banthiya.vercel.app/learning-c-for-a-c-developer)
+
+
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshbanthiya&show_icons=true&theme=github_dark)](https://github.com/harshbanthiya/github-readme-stats)
+
+
