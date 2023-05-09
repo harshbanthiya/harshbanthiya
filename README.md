@@ -34,9 +34,12 @@
 [![Website Badge](https://img.shields.io/badge/-hb-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://harsh-banthiya.vercel.app/)](https://harsh-banthiya.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-hb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:banthiyaharsh01@gmail.com)](mailto:banthiyaharsh01@gmail.com)
 
-##### Latest Blog Posts
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
 
-[Preparing for Azure Developer Associate AZ-204 (Azure Functions)](https://harsh-banthiya.vercel.app/azure-functions-overview)
+- [Preparing for Azure Developer Associate AZ-204 (Azure Functions)](https://harsh-banthiya.vercel.app/azure-functions-overview)
+- [Learning C# for a C++ developer](https://harsh-banthiya.vercel.app/learning-c-for-a-c-developer)
+- [Redis from Scratch Part I](https://harsh-banthiya.vercel.app/redis-from-scratch)
+- [Redis from Scratch Part II Hashtables and Data Serialization](https://harsh-banthiya.vercel.app/redis-from-scratch-part-ii)
 
-[Learning C# for a C++ developer](https://harsh-banthiya.vercel.app/learning-c-for-a-c-developer)
-
+<!-- BLOG-POST-LIST:END -->
