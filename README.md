@@ -1,7 +1,7 @@
 
 ### Hello/Bonjour 👋 I am Harsh [pronounced Hersh] 
 
-> Currently living in Québec City, looking for opportunities all across Canada. 
+> Currently interning in the cloud team of the Research and Development Department at [Evident Scientific](https://www.evidentscientific.com/en/). 
 <br />
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
