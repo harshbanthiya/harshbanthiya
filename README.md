@@ -36,7 +36,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [Everything about cloud native](https://harsh-banthiya.vercel.app/everything-about-cloud-native)
 - [Preparing for Azure Developer Associate AZ-204 (Azure Functions)](https://harsh-banthiya.vercel.app/azure-functions-overview)
 - [Learning C# for a C++ developer](https://harsh-banthiya.vercel.app/learning-c-for-a-c-developer)
 - [Redis from Scratch Part I](https://harsh-banthiya.vercel.app/redis-from-scratch)
