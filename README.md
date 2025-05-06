@@ -1,7 +1,7 @@
 
 ### Hello/Bonjour 👋 I am Harsh [pronounced Hersh] 
 
-> Currently interning in the cloud team of the Research and Development Department at [Evident Scientific](https://www.evidentscientific.com/en/). 
+> FullStack Cloud Software Developer (Level 2) in the cloud team of the Research and Development Department at [Evident Scientific](https://www.evidentscientific.com/en/). 
 <br />
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
